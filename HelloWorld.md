@@ -1,12 +1,18 @@
 ## This is a markdown file.
 
-Hello World!
-============
+# Hello World!
 
-and hello to you peer reviewer!
--------------------------------
+### and hello to you peer reviewer!
 
-please enjoy this cat picture 
+
+Things I like
+
+* You!
+* good grades
+* cats
+
+
+**please enjoy this cat picture** 
 
 
     +=++===++===+===+======+=+====+===+==++++++++++++?++++++DMMD+++?++????++++++++??
